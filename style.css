@@ -84,3 +84,17 @@ nav a:hover {
   margin-bottom: 15px; 
   line-height: 1.6;  
 }
+.publications {
+  margin-top: 10px;
+  padding-left: 20px;
+}
+
+.publications li {
+  margin-bottom: 8px;
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+.publications b {
+  color: #444;
+}
