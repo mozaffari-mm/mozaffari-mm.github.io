@@ -108,3 +108,13 @@ nav a:hover {
   font-size: 14px;
   line-height: 1.5;
 }
+.talks-list {
+  margin-top: 8px;
+  padding-left: 20px;
+}
+
+.talks-list li {
+  margin-bottom: 6px;
+  font-size: 14px;
+  line-height: 1.5;
+}
